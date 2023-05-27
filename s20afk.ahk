@@ -8,7 +8,7 @@ loop,
     MouseMove, 0, 50, 5, R
     Sleep, 400
     MouseMove, 0, -50, 5, R
-    Sleep, 1400
+    Sleep, 1500
     Continue
 return
 }
